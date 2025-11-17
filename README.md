@@ -65,8 +65,30 @@
 ## 🧭 Quick Navigation Panel
 
 - 📝 **Portfolio (Coming Soon)**  
-- 📦 **Top Projects** (add links later)  
-- 💬 **Ask me anything**  
+
+## 🚀 Top Projects
+
+### 🔸 Kicks – Ecommerce Website (Client)
+[![Kicks Client](https://github-readme-stats.vercel.app/api/pin/?username=AtomSah&repo=kicks-client&theme=radical)](https://github.com/AtomSah/kicks-client)  
+
+### 🔸 Kicks – Ecommerce Website (Server)
+[![Kicks Server](https://github-readme-stats.vercel.app/api/pin/?username=AtomSah&repo=kicks-server&theme=radical)](https://github.com/AtomSah/kicks-server)  
+🎥 **Demo:** (https://youtu.be/DP3HI0YzOOQ)
+
+---
+
+### 🔸 PetCare – Online Pet Adopting Platform
+[![PetCare](https://github-readme-stats.vercel.app/api/pin/?username=AtomSah&repo=my_pet_care&theme=radical)](https://github.com/AtomSah/my_pet_care)  
+🎥 **Demo:** (https://youtu.be/wTk_OgaqKrc)
+
+---
+
+### 🔸 AI Symptom Medicine Recommender
+[![AI Symptom Medicine Recommender](https://github-readme-stats.vercel.app/api/pin/?username=AtomSah&repo=AI_Symptom_Medicine_Recommender&theme=radical)](https://github.com/AtomSah/AI_Symptom_Medicine_Recommender)  
+🎥 **Demo:** (https://youtu.be/9lYRbaUm5XQ)
+
+
+
 
 ---
 
@@ -76,6 +98,4 @@
 
 ---
 
-## ⚡ Footer
 
-<p align="center">Designed with ❤️ by Atom Sah</p>
